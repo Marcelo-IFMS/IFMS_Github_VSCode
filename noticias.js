@@ -1,0 +1,1 @@
+console.log("Primeiro Commit no GitHub pelo VSCode");
